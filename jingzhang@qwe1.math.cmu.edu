@@ -1,0 +1,46 @@
+<DOCTYPE html>
+<meta charset="utf-8">
+
+<html>
+<body style="background-color: pink;">
+ 
+<h1>Jing Zhang (张倞) 
+<style media="screen" type="text/css">
+img.resize{
+max-width:40%;
+max-height:40%;
+display: block;
+margin: auto;
+}
+h1 {text-align:center;}
+p {text-align:center;}
+</style>
+</h1>
+ <img class="resize" src="profile.JPG" alt="profile">
+<p>I'm a graduate student at Carnegie Mellon University, working with <a href="http://www.math.cmu.edu/~jcumming/">James Cummings</a>.
+My main research is mainly in set theory, including infinite combinatorics, large cardinals, forcing theory etc. I also did work in reverse mathematics.</p>
+<p>Contact: [firstname][lastname]@cmu.edu</p>
+
+<section>
+  <h1>Papers and preprints</h1>
+ <ul>
+
+	<li> <a href="https://arxiv.org/abs/1712.02455">Rado's Conjecture and its Baire Version</a> 
+
+	</li>
+	<li>
+	<a href="HLpaperFinalv1.pdf"> A Tail Cone Version of the Halpern-Läuchli Theorem at a Large Cardinal</a>, to appear in the Journal of Symbolic Logic
+	</li>
+
+ <li>
+	(with <a href="https://hoelzl.fr">Rupert Hölzl</a>, <a href="http://www.math.nus.edu.sg/~raghavan/">Dilip Raghavan</a> and <a href="https://www.comp.nus.edu.sg/~fstephan">Frank Stephan</a>) <a href="zhangjing.pdf"> 
+		Weakly Represented Families in Reverse Mathematics</a>, In: Day A., Fellows M., Greenberg N., Khoussainov B., Melnikov A., Rosamond F. (eds) Computability and Complexity. Lecture Notes in Computer Science, vol 10010. Springer, Cham
+ </li>
+  <li>(with <a href="http://kenshi.miyabe.name/wordpress/">Kenshi Miyabe</a> and <a href="https://www.cs.auckland.ac.nz/~nies/">André Nies</a>) Using Almost-Everywhere Theorems from Analysis to Study Randomness, Bulletin of Symbolic Logic, Vol 22, Issue 3, Sept 2016. <a href="https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/using-almost-everywhere-theorems-from-analysis-to-study-randomness/C5348DC2ACB48218836C5C4DB72D64DD">Publisher Version</a></li>
+</ul>
+  <p></p>
+</section>
+ 
+</body>
+</html>
+
